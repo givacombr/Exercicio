@@ -10,3 +10,7 @@
 	R. Um sistema de controle de versão.
 6 - O que é um push ?
 	R. Enviar as informações que foram empactoadas para o repositório remoto.
+7 - O que é merge ?
+	R. É uma mesclagem ou fundir.
+8 - O que é branch ?
+	R. Realizar alterações sem comprometer o código original, eliminando qualquer risco de problemas.
