@@ -1,0 +1,7 @@
+Objeto
+Nome do objeto	-	Atributos		-	Métodos|Ações|Funções		-	Estado
+Caneta			Incolor			Escrever					Novo
+				Peso em gramas		Desenhar					Velho
+				Estilo elegante								Gasto
+				Medidas									Quebrado
+														
