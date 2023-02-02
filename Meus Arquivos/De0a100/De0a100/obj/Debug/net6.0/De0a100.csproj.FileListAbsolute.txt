@@ -1,0 +1,15 @@
+C:\Users\nsistema\Documents\Git\givacombr\Exercicio\Meus Arquivos\De0a100\De0a100\obj\Debug\net6.0\De0a100.csproj.AssemblyReference.cache
+C:\Users\nsistema\Documents\Git\givacombr\Exercicio\Meus Arquivos\De0a100\De0a100\obj\Debug\net6.0\De0a100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsistema\Documents\Git\givacombr\Exercicio\Meus Arquivos\De0a100\De0a100\obj\Debug\net6.0\De0a100.AssemblyInfoInputs.cache
+C:\Users\nsistema\Documents\Git\givacombr\Exercicio\Meus Arquivos\De0a100\De0a100\obj\Debug\net6.0\De0a100.AssemblyInfo.cs
+C:\Users\nsistema\Documents\Git\givacombr\Exercicio\Meus Arquivos\De0a100\De0a100\obj\Debug\net6.0\De0a100.csproj.CoreCompileInputs.cache
+C:\Users\nsistema\Documents\Git\givacombr\Exercicio\Meus Arquivos\De0a100\De0a100\bin\Debug\net6.0\De0a100.exe
+C:\Users\nsistema\Documents\Git\givacombr\Exercicio\Meus Arquivos\De0a100\De0a100\bin\Debug\net6.0\De0a100.deps.json
+C:\Users\nsistema\Documents\Git\givacombr\Exercicio\Meus Arquivos\De0a100\De0a100\bin\Debug\net6.0\De0a100.runtimeconfig.json
+C:\Users\nsistema\Documents\Git\givacombr\Exercicio\Meus Arquivos\De0a100\De0a100\bin\Debug\net6.0\De0a100.dll
+C:\Users\nsistema\Documents\Git\givacombr\Exercicio\Meus Arquivos\De0a100\De0a100\bin\Debug\net6.0\De0a100.pdb
+C:\Users\nsistema\Documents\Git\givacombr\Exercicio\Meus Arquivos\De0a100\De0a100\obj\Debug\net6.0\De0a100.dll
+C:\Users\nsistema\Documents\Git\givacombr\Exercicio\Meus Arquivos\De0a100\De0a100\obj\Debug\net6.0\refint\De0a100.dll
+C:\Users\nsistema\Documents\Git\givacombr\Exercicio\Meus Arquivos\De0a100\De0a100\obj\Debug\net6.0\De0a100.pdb
+C:\Users\nsistema\Documents\Git\givacombr\Exercicio\Meus Arquivos\De0a100\De0a100\obj\Debug\net6.0\De0a100.genruntimeconfig.cache
+C:\Users\nsistema\Documents\Git\givacombr\Exercicio\Meus Arquivos\De0a100\De0a100\obj\Debug\net6.0\ref\De0a100.dll
