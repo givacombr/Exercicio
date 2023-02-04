@@ -1,0 +1,15 @@
+C:\Users\Givaldo\source\repos\SomarNumeroseParando\SomarNumeroseParando\obj\Debug\net6.0\SomarNumeroseParando.csproj.AssemblyReference.cache
+C:\Users\Givaldo\source\repos\SomarNumeroseParando\SomarNumeroseParando\obj\Debug\net6.0\SomarNumeroseParando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Givaldo\source\repos\SomarNumeroseParando\SomarNumeroseParando\obj\Debug\net6.0\SomarNumeroseParando.AssemblyInfoInputs.cache
+C:\Users\Givaldo\source\repos\SomarNumeroseParando\SomarNumeroseParando\obj\Debug\net6.0\SomarNumeroseParando.AssemblyInfo.cs
+C:\Users\Givaldo\source\repos\SomarNumeroseParando\SomarNumeroseParando\obj\Debug\net6.0\SomarNumeroseParando.csproj.CoreCompileInputs.cache
+C:\Users\Givaldo\source\repos\SomarNumeroseParando\SomarNumeroseParando\bin\Debug\net6.0\SomarNumeroseParando.exe
+C:\Users\Givaldo\source\repos\SomarNumeroseParando\SomarNumeroseParando\bin\Debug\net6.0\SomarNumeroseParando.deps.json
+C:\Users\Givaldo\source\repos\SomarNumeroseParando\SomarNumeroseParando\bin\Debug\net6.0\SomarNumeroseParando.runtimeconfig.json
+C:\Users\Givaldo\source\repos\SomarNumeroseParando\SomarNumeroseParando\bin\Debug\net6.0\SomarNumeroseParando.dll
+C:\Users\Givaldo\source\repos\SomarNumeroseParando\SomarNumeroseParando\bin\Debug\net6.0\SomarNumeroseParando.pdb
+C:\Users\Givaldo\source\repos\SomarNumeroseParando\SomarNumeroseParando\obj\Debug\net6.0\SomarNumeroseParando.dll
+C:\Users\Givaldo\source\repos\SomarNumeroseParando\SomarNumeroseParando\obj\Debug\net6.0\refint\SomarNumeroseParando.dll
+C:\Users\Givaldo\source\repos\SomarNumeroseParando\SomarNumeroseParando\obj\Debug\net6.0\SomarNumeroseParando.pdb
+C:\Users\Givaldo\source\repos\SomarNumeroseParando\SomarNumeroseParando\obj\Debug\net6.0\SomarNumeroseParando.genruntimeconfig.cache
+C:\Users\Givaldo\source\repos\SomarNumeroseParando\SomarNumeroseParando\obj\Debug\net6.0\ref\SomarNumeroseParando.dll
