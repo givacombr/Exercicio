@@ -8,8 +8,8 @@
 
             for (i = 0; i <= 100; i+=2)//i=i+2
             {
-                Console.Write(" " + i);
-                //Console.WriteLine(i);
+                Console.Write(" " + i);//imprime na horizontal
+                //Console.WriteLine(i);//imprime na vertical
             }
         }
     }
