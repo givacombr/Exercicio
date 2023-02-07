@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Givaldo\\Documents\\GitHub\\Exercicio\\MeusArquivos\\Exercicio02\\Exercicio02\\Exercicio02.csproj": {}
+    "C:\\Users\\nsistema\\Documents\\Git\\givacombr\\Exercicio\\MeusArquivos\\Exercicio02\\Exercicio02\\Exercicio02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Givaldo\\Documents\\GitHub\\Exercicio\\MeusArquivos\\Exercicio02\\Exercicio02\\Exercicio02.csproj": {
+    "C:\\Users\\nsistema\\Documents\\Git\\givacombr\\Exercicio\\MeusArquivos\\Exercicio02\\Exercicio02\\Exercicio02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Givaldo\\Documents\\GitHub\\Exercicio\\MeusArquivos\\Exercicio02\\Exercicio02\\Exercicio02.csproj",
+        "projectUniqueName": "C:\\Users\\nsistema\\Documents\\Git\\givacombr\\Exercicio\\MeusArquivos\\Exercicio02\\Exercicio02\\Exercicio02.csproj",
         "projectName": "Exercicio02",
-        "projectPath": "C:\\Users\\Givaldo\\Documents\\GitHub\\Exercicio\\MeusArquivos\\Exercicio02\\Exercicio02\\Exercicio02.csproj",
-        "packagesPath": "C:\\Users\\Givaldo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Givaldo\\Documents\\GitHub\\Exercicio\\MeusArquivos\\Exercicio02\\Exercicio02\\obj\\",
+        "projectPath": "C:\\Users\\nsistema\\Documents\\Git\\givacombr\\Exercicio\\MeusArquivos\\Exercicio02\\Exercicio02\\Exercicio02.csproj",
+        "packagesPath": "C:\\Users\\nsistema\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nsistema\\Documents\\Git\\givacombr\\Exercicio\\MeusArquivos\\Exercicio02\\Exercicio02\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Givaldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\nsistema\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
