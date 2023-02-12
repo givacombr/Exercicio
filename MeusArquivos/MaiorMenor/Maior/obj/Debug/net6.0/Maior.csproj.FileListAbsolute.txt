@@ -1,0 +1,15 @@
+C:\Users\Givaldo\source\repos\MaiorMenor\MaiorMenor\bin\Debug\net6.0\MaiorMenor.exe
+C:\Users\Givaldo\source\repos\MaiorMenor\MaiorMenor\bin\Debug\net6.0\MaiorMenor.deps.json
+C:\Users\Givaldo\source\repos\MaiorMenor\MaiorMenor\bin\Debug\net6.0\MaiorMenor.runtimeconfig.json
+C:\Users\Givaldo\source\repos\MaiorMenor\MaiorMenor\bin\Debug\net6.0\MaiorMenor.dll
+C:\Users\Givaldo\source\repos\MaiorMenor\MaiorMenor\bin\Debug\net6.0\MaiorMenor.pdb
+C:\Users\Givaldo\source\repos\MaiorMenor\MaiorMenor\obj\Debug\net6.0\MaiorMenor.csproj.AssemblyReference.cache
+C:\Users\Givaldo\source\repos\MaiorMenor\MaiorMenor\obj\Debug\net6.0\MaiorMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Givaldo\source\repos\MaiorMenor\MaiorMenor\obj\Debug\net6.0\MaiorMenor.AssemblyInfoInputs.cache
+C:\Users\Givaldo\source\repos\MaiorMenor\MaiorMenor\obj\Debug\net6.0\MaiorMenor.AssemblyInfo.cs
+C:\Users\Givaldo\source\repos\MaiorMenor\MaiorMenor\obj\Debug\net6.0\MaiorMenor.csproj.CoreCompileInputs.cache
+C:\Users\Givaldo\source\repos\MaiorMenor\MaiorMenor\obj\Debug\net6.0\MaiorMenor.dll
+C:\Users\Givaldo\source\repos\MaiorMenor\MaiorMenor\obj\Debug\net6.0\refint\MaiorMenor.dll
+C:\Users\Givaldo\source\repos\MaiorMenor\MaiorMenor\obj\Debug\net6.0\MaiorMenor.pdb
+C:\Users\Givaldo\source\repos\MaiorMenor\MaiorMenor\obj\Debug\net6.0\MaiorMenor.genruntimeconfig.cache
+C:\Users\Givaldo\source\repos\MaiorMenor\MaiorMenor\obj\Debug\net6.0\ref\MaiorMenor.dll

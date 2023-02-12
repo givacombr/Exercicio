@@ -1,0 +1,15 @@
+C:\Users\Givaldo\Documents\GitHub\Exercicio\MeusArquivos\Praticando\Praticando\bin\Debug\net6.0\Praticando.exe
+C:\Users\Givaldo\Documents\GitHub\Exercicio\MeusArquivos\Praticando\Praticando\bin\Debug\net6.0\Praticando.deps.json
+C:\Users\Givaldo\Documents\GitHub\Exercicio\MeusArquivos\Praticando\Praticando\bin\Debug\net6.0\Praticando.runtimeconfig.json
+C:\Users\Givaldo\Documents\GitHub\Exercicio\MeusArquivos\Praticando\Praticando\bin\Debug\net6.0\Praticando.dll
+C:\Users\Givaldo\Documents\GitHub\Exercicio\MeusArquivos\Praticando\Praticando\bin\Debug\net6.0\Praticando.pdb
+C:\Users\Givaldo\Documents\GitHub\Exercicio\MeusArquivos\Praticando\Praticando\obj\Debug\net6.0\Praticando.csproj.AssemblyReference.cache
+C:\Users\Givaldo\Documents\GitHub\Exercicio\MeusArquivos\Praticando\Praticando\obj\Debug\net6.0\Praticando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Givaldo\Documents\GitHub\Exercicio\MeusArquivos\Praticando\Praticando\obj\Debug\net6.0\Praticando.AssemblyInfoInputs.cache
+C:\Users\Givaldo\Documents\GitHub\Exercicio\MeusArquivos\Praticando\Praticando\obj\Debug\net6.0\Praticando.AssemblyInfo.cs
+C:\Users\Givaldo\Documents\GitHub\Exercicio\MeusArquivos\Praticando\Praticando\obj\Debug\net6.0\Praticando.csproj.CoreCompileInputs.cache
+C:\Users\Givaldo\Documents\GitHub\Exercicio\MeusArquivos\Praticando\Praticando\obj\Debug\net6.0\Praticando.dll
+C:\Users\Givaldo\Documents\GitHub\Exercicio\MeusArquivos\Praticando\Praticando\obj\Debug\net6.0\refint\Praticando.dll
+C:\Users\Givaldo\Documents\GitHub\Exercicio\MeusArquivos\Praticando\Praticando\obj\Debug\net6.0\Praticando.pdb
+C:\Users\Givaldo\Documents\GitHub\Exercicio\MeusArquivos\Praticando\Praticando\obj\Debug\net6.0\Praticando.genruntimeconfig.cache
+C:\Users\Givaldo\Documents\GitHub\Exercicio\MeusArquivos\Praticando\Praticando\obj\Debug\net6.0\ref\Praticando.dll
