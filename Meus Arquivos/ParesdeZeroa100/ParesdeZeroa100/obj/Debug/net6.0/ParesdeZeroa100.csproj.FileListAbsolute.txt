@@ -1,0 +1,15 @@
+C:\Users\Givaldo\source\repos\ParesdeZeroa100\ParesdeZeroa100\obj\Debug\net6.0\ParesdeZeroa100.csproj.AssemblyReference.cache
+C:\Users\Givaldo\source\repos\ParesdeZeroa100\ParesdeZeroa100\obj\Debug\net6.0\ParesdeZeroa100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Givaldo\source\repos\ParesdeZeroa100\ParesdeZeroa100\obj\Debug\net6.0\ParesdeZeroa100.AssemblyInfoInputs.cache
+C:\Users\Givaldo\source\repos\ParesdeZeroa100\ParesdeZeroa100\obj\Debug\net6.0\ParesdeZeroa100.AssemblyInfo.cs
+C:\Users\Givaldo\source\repos\ParesdeZeroa100\ParesdeZeroa100\obj\Debug\net6.0\ParesdeZeroa100.csproj.CoreCompileInputs.cache
+C:\Users\Givaldo\source\repos\ParesdeZeroa100\ParesdeZeroa100\bin\Debug\net6.0\ParesdeZeroa100.exe
+C:\Users\Givaldo\source\repos\ParesdeZeroa100\ParesdeZeroa100\bin\Debug\net6.0\ParesdeZeroa100.deps.json
+C:\Users\Givaldo\source\repos\ParesdeZeroa100\ParesdeZeroa100\bin\Debug\net6.0\ParesdeZeroa100.runtimeconfig.json
+C:\Users\Givaldo\source\repos\ParesdeZeroa100\ParesdeZeroa100\bin\Debug\net6.0\ParesdeZeroa100.dll
+C:\Users\Givaldo\source\repos\ParesdeZeroa100\ParesdeZeroa100\bin\Debug\net6.0\ParesdeZeroa100.pdb
+C:\Users\Givaldo\source\repos\ParesdeZeroa100\ParesdeZeroa100\obj\Debug\net6.0\ParesdeZeroa100.dll
+C:\Users\Givaldo\source\repos\ParesdeZeroa100\ParesdeZeroa100\obj\Debug\net6.0\refint\ParesdeZeroa100.dll
+C:\Users\Givaldo\source\repos\ParesdeZeroa100\ParesdeZeroa100\obj\Debug\net6.0\ParesdeZeroa100.pdb
+C:\Users\Givaldo\source\repos\ParesdeZeroa100\ParesdeZeroa100\obj\Debug\net6.0\ParesdeZeroa100.genruntimeconfig.cache
+C:\Users\Givaldo\source\repos\ParesdeZeroa100\ParesdeZeroa100\obj\Debug\net6.0\ref\ParesdeZeroa100.dll

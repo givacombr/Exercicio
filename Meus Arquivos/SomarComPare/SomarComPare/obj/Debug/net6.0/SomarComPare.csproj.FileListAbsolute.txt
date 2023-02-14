@@ -1,0 +1,15 @@
+C:\Users\Givaldo\Documents\GitHub\Exercicio\Meus Arquivos\SomarComPare\SomarComPare\bin\Debug\net6.0\SomarComPare.exe
+C:\Users\Givaldo\Documents\GitHub\Exercicio\Meus Arquivos\SomarComPare\SomarComPare\bin\Debug\net6.0\SomarComPare.deps.json
+C:\Users\Givaldo\Documents\GitHub\Exercicio\Meus Arquivos\SomarComPare\SomarComPare\bin\Debug\net6.0\SomarComPare.runtimeconfig.json
+C:\Users\Givaldo\Documents\GitHub\Exercicio\Meus Arquivos\SomarComPare\SomarComPare\bin\Debug\net6.0\SomarComPare.dll
+C:\Users\Givaldo\Documents\GitHub\Exercicio\Meus Arquivos\SomarComPare\SomarComPare\bin\Debug\net6.0\SomarComPare.pdb
+C:\Users\Givaldo\Documents\GitHub\Exercicio\Meus Arquivos\SomarComPare\SomarComPare\obj\Debug\net6.0\SomarComPare.csproj.AssemblyReference.cache
+C:\Users\Givaldo\Documents\GitHub\Exercicio\Meus Arquivos\SomarComPare\SomarComPare\obj\Debug\net6.0\SomarComPare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Givaldo\Documents\GitHub\Exercicio\Meus Arquivos\SomarComPare\SomarComPare\obj\Debug\net6.0\SomarComPare.AssemblyInfoInputs.cache
+C:\Users\Givaldo\Documents\GitHub\Exercicio\Meus Arquivos\SomarComPare\SomarComPare\obj\Debug\net6.0\SomarComPare.AssemblyInfo.cs
+C:\Users\Givaldo\Documents\GitHub\Exercicio\Meus Arquivos\SomarComPare\SomarComPare\obj\Debug\net6.0\SomarComPare.csproj.CoreCompileInputs.cache
+C:\Users\Givaldo\Documents\GitHub\Exercicio\Meus Arquivos\SomarComPare\SomarComPare\obj\Debug\net6.0\SomarComPare.dll
+C:\Users\Givaldo\Documents\GitHub\Exercicio\Meus Arquivos\SomarComPare\SomarComPare\obj\Debug\net6.0\refint\SomarComPare.dll
+C:\Users\Givaldo\Documents\GitHub\Exercicio\Meus Arquivos\SomarComPare\SomarComPare\obj\Debug\net6.0\SomarComPare.pdb
+C:\Users\Givaldo\Documents\GitHub\Exercicio\Meus Arquivos\SomarComPare\SomarComPare\obj\Debug\net6.0\SomarComPare.genruntimeconfig.cache
+C:\Users\Givaldo\Documents\GitHub\Exercicio\Meus Arquivos\SomarComPare\SomarComPare\obj\Debug\net6.0\ref\SomarComPare.dll
