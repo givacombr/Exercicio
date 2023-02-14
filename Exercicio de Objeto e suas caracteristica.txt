@@ -1,0 +1,8 @@
+Objeto
+Nome do objeto	-	Atributos		-	Métodos|Ações|Funções		-	Estado
+Caneta			cor				Escrever					Novo
+				Peso				Desenhar					Usado
+				Estilo elegante		pintar					*Sem tampa
+				Medidas									Quebrado
+				Modelo
+				Marca									
