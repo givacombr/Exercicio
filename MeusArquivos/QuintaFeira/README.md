@@ -1,0 +1,2 @@
+# Quinta-feira
+Aula prática
